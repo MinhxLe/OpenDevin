@@ -1,6 +1,12 @@
 <a name="readme-top"></a>
 
 <!--
+*** This approach is defining high level skills as actions for OpenDevin. All this does is augment the base prompt with prompts on how to do the skill.
+*** it does not worry too much with planning or if it is faithful in exection. 
+-->
+
+
+<!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
